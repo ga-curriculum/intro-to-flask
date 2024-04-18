@@ -8,15 +8,32 @@ Open your Terminal application and navigate to your **`~/code/ga/lectures`** dir
 cd ~/code/ga/lectures
 ```
 
-Make a new directory called **`[tktk-module-name]`**, then enter this directory:
+Make a new directory called **`intro-to-flask`**, then enter this directory:
 
 ```bash
-mkdir [tktk-module-name]
-cd [tktk-module-name]
+mkdir intro-to-flask
+cd intro-to-flask
 ```
 
-<!-- Other setup instructions here -->
+Initialize a new virtual environment inside your project directory and install Flask and pythons postgres library:
 
+```bash
+pipenv install flask 
+```
+
+This command will create a new `Pipfile` and `Pipfile.lock` in your project directory, specifying Flask as a dependency.
+
+Activate the virtual environment:
+
+```bash
+pipenv shell
+```
+
+To deactivate the virtual environment when you're done, simply type:
+
+```bash
+exit
+```
 
 Open the contents of the directory in VSCode:
 

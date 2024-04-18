@@ -1,44 +1,26 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Intro to Flask](./assets/tktk-hero.png)
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+In this module, you'll get started working with one of the most popular libraries for fast, simple API development: Flask.
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Intro to Full-Stack Development
+- HTTP Request Response Cycle
 
 ## Content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
 | [Setup](./setup/README.md)                               | -- | -- | Setting up the development environment  |
-| [Concepts](./concepts/README.md)                         | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered                     |
-| **Total content**                                        | -- | -- |                                         |
-
-## Level Up content
-
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-04/README.md) | -- | -- | tktk skills covered                     |
-| **Total Level Up content**                               | -- | -- |                                         |
+| [Concepts](./concepts/README.md)                         | -- | -- | Flask's role in the web development ecosystem                    |
+| [Building a Flask Server(./building-a-flask-server/README.md) | -- | -- | Creating a Flask application and defining routes                    |
+| [Dynamic Routing](./dynamic-routing/README.md) | -- | -- | Implementing dynamic routes with parameters                    |                                       |
 
 ## References
 
 📖 [Reference Materials](./references/README.md)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
 
