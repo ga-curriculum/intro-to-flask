@@ -15,7 +15,7 @@ In this module, you'll get started working with one of the most popular librarie
 | ------ |:----------:|:-----:| ------ |
 | [Setup](./setup/README.md)                               | -- | -- | Setting up the development environment  |
 | [Concepts](./concepts/README.md)                         | -- | -- | Flask's role in the web development ecosystem                    |
-| [Building a Flask Server(./building-a-flask-server/README.md) | -- | -- | Creating a Flask application and defining routes                    |
+| [Building a Flask Server](./building-a-flask-server/README.md) | -- | -- | Creating a Flask application and defining routes                    |
 | [Dynamic Routing](./dynamic-routing/README.md) | -- | -- | Implementing dynamic routes with parameters                    |                                       |
 
 ## References
