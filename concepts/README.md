@@ -4,9 +4,9 @@
 
 # What is Flask?
 
-[**Flask**](https://flask.palletsprojects.com/en/2.1.x/) is a do it yourself micro web framework written in Python used to build applications and API's. It is a non-intrusive web framework similar to Express that allows you to make design decisions based on your applications needs. It is very bare bones upon initial install, but can easily be elevated with Flask extensions.
+[**Flask**](https://flask.palletsprojects.com/en/2.3.x/) is a do it yourself micro web framework written in Python used to build applications and API's. It is a non-intrusive web framework similar to Express that allows you to make design decisions based on your applications needs. It is very bare bones upon initial install, but can easily be elevated with Flask extensions.
 
-[Welcome to Flask - Flask Documentation (2.1.x)](https://flask.palletsprojects.com/en/2.1.x/)
+[Welcome to Flask - Flask Documentation (2.1.x)](https://flask.palletsprojects.com/en/2.3.x/)
 
 Flask was created by [**Armin Ronacher**](https://en.wikipedia.org/wiki/Armin_Ronacher) with the intent of building a framework that would allow developers to get started very quickly.
 
