@@ -1,4 +1,4 @@
-# ![Intro to Flask](./assets/tktk-hero.png)
+# ![Intro to Flask](./assets/hero.png)
 
 ## About
 
