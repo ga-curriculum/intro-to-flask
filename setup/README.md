@@ -1,4 +1,4 @@
-# ![Intro to Flask- Setup](./assets/hero.png)
+# ![Intro to Flask - Setup](./assets/hero.png)
 
 ## Setup
 

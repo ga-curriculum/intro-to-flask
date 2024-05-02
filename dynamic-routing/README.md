@@ -24,7 +24,7 @@ Now, when you make requests to `localhost:5000/profile/whatever`, you should see
 You can do anything you need to with that `name` variable. You can even pass dictionaries as parameters!
 
 <aside>
-🚀 Check out the Flask docs for a deeper dive on [**routing**](https://flask.palletsprojects.com/en/1.1.x/api/?highlight=route#flask.Flask.route).
+🚀 Check out the Flask docs for a deeper dive on [routing](https://flask.palletsprojects.com/en/1.1.x/api/?highlight=route#flask.Flask.route).
 
 </aside>
 
