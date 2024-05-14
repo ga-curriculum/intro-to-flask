@@ -2,7 +2,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to set up routes with parameters in Flask.
 
-# Dynamic Routing
+## Dynamic Routing
 
 We can define parameters for our routes with different routes being triggered based on where the data is passed.
 
@@ -23,14 +23,9 @@ Now, when you make requests to `localhost:5000/profile/whatever`, you should see
 
 You can do anything you need to with that `name` variable. You can even pass dictionaries as parameters!
 
-<aside>
-🚀 Check out the Flask docs for a deeper dive on [routing](https://flask.palletsprojects.com/en/1.1.x/api/?highlight=route#flask.Flask.route).
+> 🚀 Check out the Flask docs for a deeper dive on [routing](https://flask.palletsprojects.com/en/1.1.x/api/?highlight=route#flask.Flask.route).
 
-</aside>
-
-## 🎓 You Do
-
-### Create a personnel route for an employee directory
+## 🎓 You Do: Create a personnel route for an employee directory
 
 In this exercise, we'll want to provide users access to a simple data structure through a Flask route.
 

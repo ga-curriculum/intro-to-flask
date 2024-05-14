@@ -15,7 +15,7 @@ mkdir intro-to-flask
 cd intro-to-flask
 ```
 
-Initialize a new virtual environment inside your project directory and install Flask and pythons postgres library:
+Initialize a new virtual environment inside your project directory and install Flask and Python's PostgreSQL library:
 
 ```bash
 pipenv install flask 
