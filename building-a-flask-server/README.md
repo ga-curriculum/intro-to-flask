@@ -6,7 +6,13 @@
 
 Let's get started with the absolute minimal code required for a Flask app, which is surprisingly little!
 
-Create an `app.py` file in your project directory and fill it with the following: 
+Create an `app.py` file in your project directory:
+
+```bash
+touch app.py
+```
+
+Next, add the following to `app.py`: 
 
 ```python
 # app.py
@@ -21,9 +27,23 @@ if __name__ == '__main__':
     app.run()
 ```
 
-If this seemed like a bit of magic, don't worry: we got it from the Flask docs, same as you would.
+To run the app, execute the following command in your terminal:
 
-To run the app, execute `python app.py` in the command line and watch it go! You should be able to send a request (through browser, postman, whatever) to localhost:5000 and see the response.
+```bash
+python3 app.py
+```
+
+You should see something like the following in your terminal:
+
+```plaintext
+* Serving Flask app 'app'
+* Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+* Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+```
+
+In your browser, navigate to `http://127.0.0.1:5000`. You should see the 'Hello Flask!' response.
 
 ## Defining routes
 
@@ -35,17 +55,9 @@ To add a second route to our Flask app, simply define another function beneath a
 
 ```python
 # app.py
-from flask import Flask
-app = Flask(__name__)
-
-@app.route('/')
-def index():
-    return 'Hello Flask!'
-
 @app.route('/information')
 def info():
     return 'Flask is the micro-framework of choice for building Machine Learning API endpoints'
-
-if __name__ == '__main__':
-    app.run()
 ```
+
+To access the new route, restart your server and navigate to `http://127.0.0.1:5000/information`.
