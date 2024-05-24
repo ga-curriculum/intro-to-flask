@@ -15,4 +15,4 @@ In this module, you'll discover the fundamentals of Flask, a popular web applica
 
 ## References
 
-📖 [Reference Materials](./references/README.md)
+📖 [Reference Materials](../references/README.md)
