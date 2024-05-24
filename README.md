@@ -2,7 +2,7 @@
 
 ## About
 
-In this module, you'll get started working with one of the most popular libraries for fast, simple API development: Flask.
+In this module, you'll discover the fundamentals of Flask, a popular web application framework using Python. From setting up your first Flask server to exploring key concepts that drive modern web development, this module is designed to equip you with the knowledge and skills to build efficient, scalable web applications.
 
 ## Prerequisites
 
