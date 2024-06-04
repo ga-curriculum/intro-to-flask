@@ -13,7 +13,7 @@ Let's add a third route to our app to demonstrate, only this route will be flexi
 ```python
 @app.route('/profile/<name>')
 def profile(name):
-    return 'This is the profile information for {}'.format(name.upper())
+    return f"This is the profile information for {name.upper()}"
 
 if __name__ == '__main__':
     app.run()
