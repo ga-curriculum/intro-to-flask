@@ -11,12 +11,12 @@ In this module, you'll discover the fundamentals of Flask, a popular web applica
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                               | -- | -- | Setting up the development environment  |
-| [Concepts](./concepts/README.md)                         | -- | -- | Flask's role in the web development ecosystem                    |
-| [Building a Flask Server](./building-a-flask-server/README.md) | -- | -- | Creating a Flask application and defining routes                    |
-| [Dynamic Routing](./dynamic-routing/README.md) | -- | -- | Implementing dynamic routes with parameters                    |                                       |
+| Lesson                                                         | Video Time | Video | Skills                                           |
+| -------------------------------------------------------------- | :--------: | :---: | ------------------------------------------------ | --- |
+| [Setup](./setup/README.md)                                     |     --     |  --   | Setting up the development environment           |
+| [Concepts](./concepts/README.md)                               |     --     |  --   | Flask's role in the web development ecosystem    |
+| [Building a Flask Server](./building-a-flask-server/README.md) |     --     |  --   | Creating a Flask application and defining routes |
+| [Dynamic Routing](./dynamic-routing/README.md)                 |     --     |  --   | Implementing dynamic routes with parameters      |     |
 
 ## References
 

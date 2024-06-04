@@ -49,7 +49,7 @@ In your browser, navigate to `http://127.0.0.1:5000`. You should see the 'Hello 
 
 In Python, `decorators` are wrapper functions used to modify and extend the behavior of a normal function.
 
-In Flask, we can use `route()` decorators like @app.route("/") to assign functions to specific URL paths. When a user accesses a specific route, Flask is able to determine which function needs to run. 
+In Flask, we can use `route()` decorators like `@app.route("/")` to assign functions to specific URL paths. When a user accesses a specific route, Flask is able to determine which function needs to run. 
 
 To add a second route to our Flask app, simply define another function beneath a new `@app.route()` decorator, like so:
 

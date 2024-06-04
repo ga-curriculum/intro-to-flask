@@ -73,7 +73,7 @@ The request will then be able to access query parameters using a `request.args.g
 def employee_search():
     name = request.args.get('name')
     age = request.args.get('age')
-    return "I searched for employees named {} who are {} years old".format(name, age)
+    return f"I searched for employees named {name} who are {age} years old"
 ```
 
 The `name` and `age` keys in the `request` object correspond to the query parameters in the URL. The server can then use this data, commonly for filtering results from a database.

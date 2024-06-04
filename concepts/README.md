@@ -1,6 +1,6 @@
 # ![Intro to Flask - Concepts](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to articulate Flask's characteristics in the web framework ecosystem.
+**Learning objective:** By the end of this lesson, students will be able to describe Flask's characteristics in the web framework ecosystem.
 
 ## What is Flask?
 
