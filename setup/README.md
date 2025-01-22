@@ -1,4 +1,7 @@
-# ![Intro to Flask - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Flask</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 ## Setup
 

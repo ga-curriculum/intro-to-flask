@@ -1,4 +1,7 @@
-# ![Intro to Flask - Dynamic Routing](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Flask</span>
+  <span class="subhead">Dynamic Routing</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to set up routes with parameters in Flask.
 

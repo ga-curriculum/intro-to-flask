@@ -1,4 +1,7 @@
-# ![Intro to Flask - Building a Flask Server](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to Flask</span>
+  <span class="subhead">Building a Flask Server</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to create a simple app entry point with Flask.
 
