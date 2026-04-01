@@ -29,8 +29,8 @@ In this module, you'll discover the fundamentals of Flask, a popular web applica
 
 ### Course landing pages
 
-- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-flask/canvas-landing-pages/seb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-flask/canvas-landing-pages/fallback.html)
+- [SEB - Software Engineering Bootcamp](https://ga-curriculum.github.io/intro-to-flask/canvas-landing-pages/seb.html)
+- [Fallback](https://ga-curriculum.github.io/intro-to-flask/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -42,4 +42,4 @@ In this module, you'll discover the fundamentals of Flask, a popular web applica
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
